@@ -13,4 +13,7 @@ This is how i collected my data
 ### Headings 3
  
 # Image
-![BT Group](assets/img/BTGROUP.PNG)
+![BT Group](Assets/BTGROUPPIC.PNG)
+
+#URL LINKS 
+[BT Website](https://www.bt.com/)
