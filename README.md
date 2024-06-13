@@ -12,3 +12,5 @@ This is how i collected my data
 
 ### Headings 3
  
+# Image
+![BT Group](assets/img/BTGROUP.PNG)
