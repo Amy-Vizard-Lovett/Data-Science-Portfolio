@@ -1,7 +1,14 @@
-# Portfolio
+ # Portfolio
 
-# Heading 1
+# Methodology
 
-## Heading 2
+This is a sample section alongside my methods
 
-### Headings 3 
+## Data collection
+
+This is how i collected my data
+
+## Data analysis
+
+### Headings 3
+ 
