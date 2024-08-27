@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a passionate data analyst currently transitio
 
 - **Data Analysis & Visualization:** Oracle SQL, Tableau, Excel, Python, Qlik
 - **Cloud Platforms:** Google Cloud Platform (GCP)
-- **Hard Skills:** End-to-end analysis, project management, report automation, data validation, data engineering.
+- **Hard Skills:** End-to-end analysis, project management, report automation, data validation, data engineering, data governance, visulisation and statistical analysis. 
 - **Soft Skills:** Leadership, teamwork, problem-solving, communication, research skills, organisarion, stakeholder management and collaboration.
 
 ## Professional Experience
@@ -62,7 +62,7 @@ Proactively contributed to initiatives outside of my defined role, including:
   Institution: QA Apprenticeship Provider
   Completed with distinction.
 
-  - **A-Levels**  
+- **A-Levels**  
   Institution: Castle School Sixth-Form
   English Literature & Language, geography, History & World Development AS
 
