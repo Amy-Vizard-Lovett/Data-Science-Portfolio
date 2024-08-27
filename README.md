@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I am a data analyst currently transitioning into a data science role. 
 
+To view my Data Science Professional Practice doccument, please see CO2EmissionsForecastCode and Section A Word Document. 
+
 ## Summary
 
 - **Name:** Amy Vizard-Lovett
