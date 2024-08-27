@@ -33,8 +33,10 @@ Leveraged advanced Excel functions to perform forecasting, data visualization, s
 
 Managed the validation process for key components of several monthly reports, maintaining a consistent schedule and upholding high standards of data quality and reliability.
 
+
+
 Proactively contributed to initiatives outside of my defined role, including:
-  •	Collaborated on a high-level recruitment project at the director level, refining selection criteria and supporting interview processes to attract top talent.
+  •	Collaborated on a high-level recruitment project at the director level, refining selection criteria and supporting interview processes to attract young people into data roles.
 
   •	Supported the development and improvement of early career onboarding processes, enhancing new hire experience and retention. 
 
