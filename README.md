@@ -36,6 +36,9 @@ Managed the validation process for key components of several monthly reports, ma
 
 
 Proactively contributed to initiatives outside of my defined role, including:
+
+
+
   •	Collaborated on a high-level recruitment project at the director level, refining selection criteria and supporting interview processes to attract young people into data roles.
 
   •	Supported the development and improvement of early career onboarding processes, enhancing new hire experience and retention. 
