@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am a passionate data analyst currently transitio
 
 - **Name:** Amy Vizard-Lovett
 - **Current Role:** Data Analyst
-- **Career Goal:** To become a qualified data scientist
-- **Experience:** Nearly 3 years in data analysis, specialising in end-to-end projects
+- **Career Goal:** My career goal is to become a qualified data scientist and lead a team.
+- **Experience:** With nearly 3 years of experience in data analytics at a large global company in the business enterprise sector, I have successfully completed projects across various departments, addressing diverse stakeholder needs and business objectives.
 - **Education:** 
   - Level 4 Data Analytics Apprenticeship (Distinction)
   - Data Science Degree Apprenticeship (Year 2 of 3)
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I am a passionate data analyst currently transitio
 
 - **Data Analysis & Visualization:** Oracle SQL, Tableau, Excel, Python, Qlik
 - **Cloud Platforms:** Google Cloud Platform (GCP)
-- **Project Management:** End-to-end analysis project management, report automation, data validation
-- **Soft Skills:** Leadership, teamwork, problem-solving, communication
+- **Hard Skills:** End-to-end analysis, project management, report automation, data validation, data engineering.
+- **Soft Skills:** Leadership, teamwork, problem-solving, communication, research skills, organisarion, stakeholder management and collaboration.
 
 ## Professional Experience
 
@@ -32,20 +32,20 @@ Leveraged advanced Excel functions to perform forecasting, data visualization, s
 Managed the validation process for key components of several monthly reports, maintaining a consistent schedule and upholding high standards of data quality and reliability.
 
 Proactively contributed to initiatives outside of my defined role, including:
-•	Collaborated on a high-level recruitment project at the director level, refining selection criteria and supporting interview processes to attract top talent.
+  •	Collaborated on a high-level recruitment project at the director level, refining selection criteria and supporting interview processes to attract top talent.
 
-•	Supported the development and improvement of early career onboarding processes, enhancing new hire experience and retention. 
+  •	Supported the development and improvement of early career onboarding processes, enhancing new hire experience and retention. 
 
-•	Created and maintained internal intranet webpages to educate colleagues on data literacy and best practices, fostering a data-driven culture within the organisation.
+  •	Created and maintained internal intranet webpages to educate colleagues on data literacy and best practices, fostering a data-driven culture within the organisation.
 
-•	Completed a six-month placement with the User Research team, applying data analysis skills to understand user needs and improve product development strategies. 
+  •	Completed a six-month placement with the User Research team, applying data analysis skills to understand user needs and improve product development strategies. 
 
 
 ## Leadership & Community Involvement
 
-- **Future Careers Network:** Lead initiatives to connect and mentor emerging talent whilst organising events to help people network whilst rasining money for charity.
-- **Culture Squad Representative:** Advocate for team culture and engagement.
-- **Data Events:** Active participant in internal and external data-focused events.
+- **Future Careers Network:** Lead initiatives to connect and mentor emerging talent by organising events and workshops that foster networking opportunities, professional development, and skill-building. Additionally, I coordinate fundraising activities to support charitable causes, promoting a culture of giving back within the organisation.
+- **Culture Squad Representative:** Serve as an advocate for team culture and engagement, working to enhance workplace morale and foster a positive, inclusive environment through various initiatives and activities.
+- **Data Events:** Actively participate in both internal and external data-focused events, including conferences, webinars, and meetups, to stay current with industry trends, share knowledge, and build connections within the data community.
 
 ## Outside of my Role
 
@@ -61,6 +61,10 @@ Proactively contributed to initiatives outside of my defined role, including:
 - **Level 4 Data Analytics Apprenticeship**  
   Institution: QA Apprenticeship Provider
   Completed with distinction.
+
+  - **A-Levels**  
+  Institution: Castle School Sixth-Form
+  English Literature & Language, geography, History & World Development AS
 
 ## Contact
 
