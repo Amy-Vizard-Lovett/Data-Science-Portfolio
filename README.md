@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my GitHub profile! I am a passionate data analyst currently transitioning into a data science role. With a solid background in analytics and a drive to solve complex business problems, I bring a diverse skill set to the table. 
+Welcome to my GitHub profile! I am a data analyst currently transitioning into a data science role. 
 
 ## Summary
 
