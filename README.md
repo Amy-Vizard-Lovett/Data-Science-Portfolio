@@ -24,13 +24,20 @@ Welcome to my GitHub profile! I am a passionate data analyst currently transitio
 
 ### Data Analyst | British Telecomms (BT) | 2021 - Present
 Led end-to-end analysis projects using Oracle SQL, GCP, Tableau, Python and Qlik, delivering actionable insights to internal stakeholders across multiple departments, enhancing decision-making for a wide range of business problems.
+
 Designed, built, and maintained several large-scale base reports on Tableau Server, ensuring data integrity and consistency through regular management and refresh schedules, thereby improving reporting efficiency and accuracy.
+
 Leveraged advanced Excel functions to perform forecasting, data visualization, statistical analysis, and data validation, contributing to more precise business predictions and strategic planning.
+
 Managed the validation process for key components of several monthly reports, maintaining a consistent schedule and upholding high standards of data quality and reliability.
+
 Proactively contributed to initiatives outside of my defined role, including:
 •	Collaborated on a high-level recruitment project at the director level, refining selection criteria and supporting interview processes to attract top talent.
+
 •	Supported the development and improvement of early career onboarding processes, enhancing new hire experience and retention. 
+
 •	Created and maintained internal intranet webpages to educate colleagues on data literacy and best practices, fostering a data-driven culture within the organisation.
+
 •	Completed a six-month placement with the User Research team, applying data analysis skills to understand user needs and improve product development strategies. 
 
 
